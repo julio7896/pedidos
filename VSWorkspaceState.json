@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Pedidos",
+    "\\Pedidos\\PedidoDao",
+    "\\Pedidos\\PedidoLib",
+    "\\Pedidos\\Pedidos"
+  ],
+  "SelectedNode": "\\Pedidos\\PedidoLib\\Pedido.cs",
+  "PreviewInSolutionExplorer": false
+}
